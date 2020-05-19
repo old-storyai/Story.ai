@@ -37,4 +37,5 @@ not being deeply influenced by industry group-think that may prevent open minds 
 adventure new thoughts. We are the crazy ones that change the world and until then,
 we think differently and remain open-minded.
 
-- Steve Peak, Founder and CEO of Storyscript
+[![Screen Shot 2020-05-19 at 8 13 36 AM](https://user-images.githubusercontent.com/2041757/82344292-b8ab2200-99a8-11ea-95b4-91c9af0c724f.png)](https://github.com/stevepeak)
+
