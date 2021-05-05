@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/2041757/116879605-20419800-ac21-11eb-8d1b-ed0bd1f4cba1.png">
+<img width="699" alt="609145935070f21f1e22f66f_Screen Shot 2021-05-04 at 15 00 55" src="https://user-images.githubusercontent.com/2041757/117151672-96790280-adb9-11eb-8e2d-c8dfa7599583.png">
 
 
 Text editors are used by *every single computer user*. It’s familiar, natural, intuitive, and empowers users to express themselves freely. [Story.ai](http://story.ai) reimagines the simple, static word document into a living, colorful story that **turns ideas into magic**; resulting in real-world tools, apps, workflows, and automations that can be written and read by *everyone*.
